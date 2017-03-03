@@ -1,0 +1,1 @@
+<h1>This is just a test email from laravel</h1>
